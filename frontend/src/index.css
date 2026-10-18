@@ -1,2 +1,0 @@
-html { scroll-padding-top:env(safe-area-inset-top, 0px); }
-body { margin:0; min-width:320px; min-height:100vh; background:var(--bg); color:var(--ink); font-family:'Bricolage Grotesque', system-ui, sans-serif; }
